@@ -1,0 +1,73 @@
+{
+  java.specification.version=15,
+  sun.cpu.isalist=amd64, 
+  sun.jnu.encoding=Cp1252,
+  java.class.path=C:\Users\Arshad Ahamed\AppData\Roaming\Code\User\workspaceStorage\70573aa6819de71f1068454724b25210\redhat.java\jdt_ws\sify_4a66b785\bin;
+                  C:\Users\Arshad Ahamed\Downloads\mysql-connector-java-8.0.23\mysql-connector-java-8.0.23\mysql-connector-java-8.0.23.jar;
+                  C:\Users\Arshad Ahamed\Downloads\snmp4j-3.4.4-distribution\snmp4j-3.4.4\dist\snmp4j-3.4.4.jar,
+  java.vm.vendor=Oracle Corporation,
+  sun.arch.data.model=64, 
+  user.variant=,
+  java.vendor.url=https://java.oracle.com/, 
+  java.vm.specification.version=15, 
+  os.name=Windows 10, 
+  sun.java.launcher=SUN_STANDARD, 
+  user.country=IN, 
+  sun.boot.library.path=C:\Program Files\Java\jdk-15.0.2\bin, 
+  sun.java.command=PropertiesTest, 
+  jdk.debug=release, 
+  sun.cpu.endian=little, 
+  user.home=C:\Users\Arshad Ahamed, 
+  user.language=en, 
+  sun.stderr.encoding=cp65001, 
+  java.specification.vendor=Oracle Corporation, 
+  java.version.date=2021-01-19, 
+  java.home=C:\Program Files\Java\jdk-15.0.2, 
+  file.separator=\, 
+  java.vm.compressedOopsMode=32-bit, 
+  line.separator=
+, sun.stdout.encoding=cp65001, 
+  java.vm.specification.vendor=Oracle Corporation, 
+  java.specification.name=Java Platform API Specification, 
+  user.script=, 
+  sun.management.compiler=HotSpot 64-Bit Tiered Compilers, 
+  java.runtime.version=15.0.2+7-27, 
+  user.name=Arshad Ahamed, 
+  path.separator=;, 
+  os.version=10.0, 
+  java.runtime.name=Java(TM) SE Runtime Environment, 
+  file.encoding=UTF-8, 
+  java.vm.name=Java HotSpot(TM) 64-Bit Server VM, 
+  java.vendor.url.bug=https://bugreport.java.com/bugreport/, 
+  java.io.tmpdir=C:\Users\ARSHAD~1\AppData\Local\Temp\, 
+  java.version=15.0.2, 
+  user.dir=C:\Users\Arshad Ahamed\Documents\sify, 
+  os.arch=amd64, 
+  java.vm.specification.name=Java Virtual Machine Specification, 
+  sun.os.patch.level=, 
+  java.library.path=C:\Program Files\Java\jdk-15.0.2\bin;
+                    C:\windows\Sun\Java\bin;
+                    C:\windows\system32;
+                    C:\windows;
+                    C:\Program Files\Common Files\Oracle\Java\javapath;
+                    C:\Program Files\Git\cmd;
+                    C:\Program Files\Git\git;
+                    C:\Program Files\nodejs\;
+                    C:\ProgramData\chocolatey\bin;
+                    C:\Program Files\MySQL\MySQL Shell 8.0\bin\;
+                    C:\Users\Arshad Ahamed\AppData\Local\Programs\Python\Python37\Scripts\;
+                    C:\Users\Arshad Ahamed\AppData\Local\Programs\Python\Python37\;
+                    C:\Program Files\Java\jdk1.8.0_141\bin;
+                    C:\Program Files\MongoDB\Server\4.2\bin\;
+                    C:\Program Files\MongoDB\Server\4.0\bin\;
+                    C:\Users\Arshad Ahamed\AppData\Roaming\nvm;
+                    C:\Program Files\nodejs;
+                    C:\Users\Arshad Ahamed\AppData\Local\Programs\Microsoft VS Code\bin;
+                    C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Users\Arshad Ahamed\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\System32;., 
+  java.vm.info=mixed mode, 
+  sharing, 
+  java.vendor=Oracle Corporation, 
+  java.vm.version=15.0.2+7-27, 
+  sun.io.unicode.encoding=UnicodeLittle, 
+  java.class.version=59.0
+}

@@ -1,0 +1,20 @@
+Classes in script include
+
+Syntax:
+
+var className = Class.create();
+className.prototype = {
+  functionName: function(){
+    //function definition
+  },
+
+  type: 'className'
+}
+
+Calling a class property in script background:
+
+var objName = new className();
+objName.functionName();
+
+sn_ws.RESTMessageV2: it makes outbound rest request
+gs.getProperty : retrive application property value.

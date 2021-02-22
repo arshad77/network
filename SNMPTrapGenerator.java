@@ -45,13 +45,11 @@ public class SNMPTrapGenerator{
   private static final int port = 162;
 
   public static void main(String args[]) {
-  
-	  // PICK THE VERSION(S) YOU WANT TO SEND
-	  
-  //sendSnmpV1V2Trap(SnmpConstants.version1);  
+  // PICK THE VERSION(S) YOU WANT TO SEND
+	//sendSnmpV1V2Trap(SnmpConstants.version1);  
   //sendSnmpV1V2Trap(SnmpConstants.version2c);
   sendSnmpV3Trap();
-  
+
   }
 
   /**

@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Arshad Ahamed\\Downloads\\mysql-connector-java-8.0.23\\mysql-connector-java-8.0.23\\mysql-connector-java-8.0.23.jar",
+    "c:\\Users\\Arshad Ahamed\\Downloads\\snmp4j-3.4.4-distribution\\snmp4j-3.4.4\\dist\\snmp4j-3.4.4.jar"
+  ]
+}
